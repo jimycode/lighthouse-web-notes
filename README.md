@@ -1,2 +1,2 @@
 # Jameel's Notes
-## This repo containts all notes taken by Jameel for LHL Web Development Bootcamp.
+## This repo contains all notes taken by [Jameel](https://github.com/jimycode) for [LHL](https://www.lighthouselabs.ca/) Web Development Bootcamp.
